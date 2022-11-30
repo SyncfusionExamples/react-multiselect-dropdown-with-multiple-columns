@@ -1,6 +1,6 @@
 # React Multiselect dropdown with multiple columns
 
-A quick-start React project that shows how to configure the multi colums in the Syncfusion React Multiselect dropdown component.
+A quick-start React project that shows how to configure the multi-columns in the Syncfusion React Multiselect dropdown component.
 
 ## Project prerequisites
 
