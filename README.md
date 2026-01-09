@@ -11,6 +11,8 @@ Make sure that you have the latest versions of NodeJS and Visual Studio Code in 
 To run this application, you need to clone the `react-multiselect-dropdown-with-multiple-columns` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm start` command.
 
 ## See also
-[Multiselect dropdown examples](https://ej2.syncfusion.com/react/demos/#/bootstrap5/multi-select/default)
+Refer to the following documentation to learn about the Multiselect component: 
+https://ej2.syncfusion.com/react/demos/#/bootstrap5/multi-select/default
 
-[Multiselect dropdown documentation](https://ej2.syncfusion.com/react/documentation/multi-select/getting-started/)
+Refer to the following documentation to learn about the Multiselect component: 
+https://ej2.syncfusion.com/react/documentation/multi-select/getting-started/
